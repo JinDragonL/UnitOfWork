@@ -26,6 +26,8 @@ namespace SampleMVC_UOW_Pattern.Controllers
             //Automapper convert CategoryViewModel -> Category
             //_unitOfWork.CategoryRepository.CreateUpdate(obj);
 
+            var bien = 123;
+
             return View();
         }
     }
