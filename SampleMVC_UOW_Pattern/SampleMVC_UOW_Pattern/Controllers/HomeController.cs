@@ -11,7 +11,7 @@ namespace SampleMVC_UOW_Pattern.Controllers
         public ActionResult Index()
         {
             var bien = "From staff 1 = modify Home controller";
-
+			var bien2 = "From staff 1 = bien2";
             return View();
         }
 
