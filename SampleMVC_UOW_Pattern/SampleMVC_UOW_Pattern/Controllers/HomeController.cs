@@ -12,6 +12,7 @@ namespace SampleMVC_UOW_Pattern.Controllers
         {
             var bien = "From staff 1 = modify Home controller";
 
+			var bien2 = "From staff 1 = bien2";
             var bien3 = "From me -- Bien 3";
             return View();
         }
